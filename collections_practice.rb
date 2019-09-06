@@ -39,13 +39,7 @@ end
 
 def sum_array(integer)
   
-  
-  
-  
-  
-  
-  
-  
-  
+  integer.inject
+
   
 end 
