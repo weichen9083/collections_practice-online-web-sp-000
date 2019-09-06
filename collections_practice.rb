@@ -19,3 +19,12 @@ end
 def reverse_array(integer)
   reverse_integer = integer.reverse 
 end 
+
+def kesha_maker(string)
+  new_string =[]
+  string.each do |three|
+    
+    
+    
+  end 
+end 
