@@ -41,7 +41,7 @@ def sum_array(integer)
 integer.inject{|x,y| x+y}
 end 
 def add_s(string)
-  string.each_with_indext.collect do |name, index|
+  string.each_with_index.collect do |name, index|
     if index == 1 
     else 
       name <<"s"
