@@ -35,5 +35,17 @@ def find_a(string)
   string.select do |a| 
     a.start_with?('a')
   end 
+end 
+
+def sum_array(integer)
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 end 
