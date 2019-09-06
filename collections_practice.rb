@@ -23,7 +23,9 @@ end
 def kesha_maker(string)
   new_string =[]
   string.each do |three|
-    three.chars
-    
+    char_array = three.chars
+    char_array[2] = "$"
+    new_string << char_array.join 
   end 
+  new_string
 end 
