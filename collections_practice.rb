@@ -29,3 +29,9 @@ def kesha_maker(string)
   end 
   new_string
 end 
+
+
+def find_a(string)
+  
+  
+end 
