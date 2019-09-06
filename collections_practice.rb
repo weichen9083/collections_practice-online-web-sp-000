@@ -38,5 +38,5 @@ def find_a(string)
 end 
 
 def sum_array(integer)
-integer.inject
+integer.inject{|x,y| x+y}
 end 
