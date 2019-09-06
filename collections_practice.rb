@@ -40,3 +40,6 @@ end
 def sum_array(integer)
 integer.inject{|x,y| x+y}
 end 
+def add_s(string)
+  string.each_with_indext.collect{
+end 
