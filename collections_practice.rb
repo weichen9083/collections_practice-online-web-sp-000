@@ -43,6 +43,7 @@ end
 def add_s(string)
   string.each_with_index.collect do |name, index|
     if index == 1 
+      name 
     else 
       name <<"s"
     end 
