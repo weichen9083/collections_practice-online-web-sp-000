@@ -32,6 +32,8 @@ end
 
 
 def find_a(string)
-  string.select do |
+  string.select do |a| 
+    a.start_with?('a')
+  end 
   
 end 
