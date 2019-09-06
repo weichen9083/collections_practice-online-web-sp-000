@@ -32,6 +32,6 @@ end
 
 
 def find_a(string)
-  
+  string.select do |
   
 end 
