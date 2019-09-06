@@ -23,8 +23,7 @@ end
 def kesha_maker(string)
   new_string =[]
   string.each do |three|
-    
-    
+    three.chars
     
   end 
 end 
